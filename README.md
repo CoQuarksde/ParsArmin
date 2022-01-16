@@ -1,5 +1,5 @@
 
-<img src="CoQuarksde.png" alt="Test">
+<img src="CoQuarksde.png" alt="Welcome image">
 
 
 - 👋 Hi, I’m @CoQuarksde
