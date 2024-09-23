@@ -8,10 +8,10 @@
 - 💞️ I’m looking to collaborate on #BSP #Barebox #U-Boot #Python #GUI-Dev #MachineLearning, #FrontEnd
 - 📫 How to reach me etedali.armin@gmx.de
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoQuarksde&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoQuarksde&layout=compact&theme=radical)
 
-![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/YourGitHubUsername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/CoQuarksde?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/CoQuarksde?style=social)
 
 
 
