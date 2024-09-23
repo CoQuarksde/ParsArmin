@@ -8,9 +8,7 @@
 - 💞️ I’m looking to collaborate on #BSP #Barebox #U-Boot #Python #GUI-Dev #MachineLearning, #FrontEnd
 - 📫 How to reach me etedali.armin@gmx.de
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 
 <!---
