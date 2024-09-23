@@ -14,7 +14,10 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/CoQuarksde?style=social)
 
 
-
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcelpetrick&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpetrick&theme=dracula&show_icons=true" />
+</p>
 <!---
 CoQuarksde/CoQuarksde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
