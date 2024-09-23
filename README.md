@@ -10,6 +10,10 @@
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
+![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/YourGitHubUsername?style=social)
+
+
 
 <!---
 CoQuarksde/CoQuarksde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
